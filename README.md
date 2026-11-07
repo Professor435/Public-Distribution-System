@@ -7,3 +7,4 @@ for full working version according to your requirements and needs or FYP's conta
 #PDS #PublicDistribution #Government #RationManagement #Django #React #FullStack #WelfareScheme #BPL #APL #FairPriceShop #StockManagement #Beneficiary #Aadhaar #Subsidy #FoodSecurity #RuralDevelopment #WebApp #Database #OpenSource #GovTech    
  
  
+ 
